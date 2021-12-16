@@ -1,0 +1,23 @@
+.img1{
+    width: 400px;
+    height: auto;
+}
+.img2{
+    width: 400px;
+    height: auto;
+}
+.img3{
+    width: 400px;
+    height: auto;
+}
+.img5{
+    width: 200px;
+}
+.footer1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: darkgrey;
+}
+.footer2{
+    color: darkgrey;
+}
